@@ -1,0 +1,12 @@
+.container{
+    margin-top: 200px;
+    width:fit-content;
+    background-color:#C0EEF2;
+    box-sizing: border-box;
+    border-radius: 0.5cm;
+}
+
+span{
+    font-size: xx-large;
+    color:#3E54AC;
+}
